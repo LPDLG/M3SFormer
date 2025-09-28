@@ -1,7 +1,0 @@
-LICENSE
-README.md
-setup.py
-image_synthesis.egg-info/PKG-INFO
-image_synthesis.egg-info/SOURCES.txt
-image_synthesis.egg-info/dependency_links.txt
-image_synthesis.egg-info/top_level.txt
